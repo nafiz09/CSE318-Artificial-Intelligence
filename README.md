@@ -13,7 +13,7 @@ to play a two player game. The game which was considered here is Mancala.</p>
 
 
 **3. Ghost Finder**
-<p>An imaginary situation was introduced to solve a proble using **Hidden Markov Model**.
+<p>An imaginary situation was introduced to solve a proble using __Hidden Markov Model__.
 
   
  > **Detailed problem statement is included inside every directory**
