@@ -20,4 +20,4 @@ to play a two player game. The game which was considered here is Mancala.</p>
  <br>
 
   
- > <h3>Detailed problem statement is included inside every directory</h3>
+ > <h3>Detailed problem statements are included inside every directory.</h3>
